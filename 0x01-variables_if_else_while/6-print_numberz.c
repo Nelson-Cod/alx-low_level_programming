@@ -13,6 +13,6 @@ for (ch = 48; ch <= 58; ch++)
 {
 putchar(ch);
 }
-putchar(10);
+putchar(10'\n');
 return (0);
 }
