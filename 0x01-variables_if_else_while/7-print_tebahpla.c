@@ -9,7 +9,7 @@
 int main(void)
 {
 char boy;
-for (boy = 'z'; boy <= 'a'; boy--)
+for (boy = 'z'; boy >= 'a'; boy--)
 	putchar(boy);
 putchar('\n');
 return (0);
