@@ -19,6 +19,6 @@ sum += c;
 }
 c++;
 }
-printf("%n\n", sum);
+printf("%\n", sum);
 return (0);
 }
