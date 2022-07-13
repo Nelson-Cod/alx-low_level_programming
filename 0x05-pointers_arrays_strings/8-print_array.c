@@ -1,7 +1,6 @@
 #include "main.h"
 
 #include <stdio.h>
-
 /**
  * print_array - prints n times the elements of an array
  * @a: the pointer to the elements
@@ -19,6 +18,6 @@ if (i < n - 1)
 {
 printf(", ");
 }
-putchar('\n');
 }
+putchar('\n');
 }
